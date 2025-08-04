@@ -30,7 +30,7 @@ NUM_HOTELS_TO_VISIT = 5  # Número ALVO de hotéis que devem ser selecionados na
 
 # --- PARÂMETROS DO ALGORITMO GENÉTICO ---
 POPULATION_SIZE = 400  # Tamanho da população em cada geração
-N_GENERATIONS = 1500  # Número máximo de gerações a serem executadas
+N_GENERATIONS = 2000  # Número máximo de gerações a serem executadas
 ELITE_COUNT = 3  # Quantos dos melhores indivíduos passam diretamente para a próxima geração
 
 # --- PARÂMETROS PARA REINICIALIZAÇÃO DA POPULAÇÃO ---
