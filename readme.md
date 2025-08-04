@@ -103,7 +103,7 @@ Exemplo de resultados finais:
   - Custo Total da Viagem (Estimado) = R$ 3116.06
 
 - Resultados Finais da Otimização:
-  - Execução finalizada após 3000 gerações.
+  - Execução finalizada após 2000 gerações.
   - Distância Total da Rota: 4942.17 km
   - Essa viagem de 4942.17 KM dura 3 dias, 10 horas, 22 minutos, 10 segundos
   - Fitness Final (Melhor Otimização): 15510.39
